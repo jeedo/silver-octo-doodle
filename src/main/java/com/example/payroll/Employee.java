@@ -1,3 +1,9 @@
+package com.example.payroll;
+
+import javax.persistance.Entity;
+import javax.persistance.GeneratedValue;
+import javax.persistance.Id;
+
 @Data
 @Entity
 public class Employee {
