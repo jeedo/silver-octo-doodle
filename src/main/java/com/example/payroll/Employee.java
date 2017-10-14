@@ -4,6 +4,8 @@ import javax.persistance.Entity;
 import javax.persistance.GeneratedValue;
 import javax.persistance.Id;
 
+import lombok.Data;
+
 @Data
 @Entity
 public class Employee {
