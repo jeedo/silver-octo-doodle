@@ -1,8 +1,8 @@
 package com.example.payroll;
 
-import javax.persistance.Entity;
-import javax.persistance.GeneratedValue;
-import javax.persistance.Id;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 
 import lombok.Data;
 
